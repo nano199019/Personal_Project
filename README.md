@@ -6,5 +6,5 @@
 ![](http://news.sportslogos.net/wp-content/uploads/2014/09/MLB.png)
 
 ---
-### [Check Point]
-- Continuing the project now
+> ### [Check Point]
+> - Continuing the project now
