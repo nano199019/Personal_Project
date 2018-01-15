@@ -1,6 +1,6 @@
 # [Personal Project]
 
-### * Subject: <font color="red">SALARY PREDICTION</font> of Players who sign a FA Contract<br>
+### * Subject: <font color="red">SALARY PREDICTION</font><br> of Players who sign a FA Contract
 >![](http://news.sportslogos.net/wp-content/uploads/2014/09/MLB.png)
 ---
 ### * Content:
