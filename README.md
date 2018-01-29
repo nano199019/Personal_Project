@@ -11,11 +11,11 @@
 >    * **Analysis : Regression**
 >---
 ### * Composition of data
->    * Rows of Batter's Data : 671
->    * Columns of Batter's Data : 40
+>    * Rows in Batter Data : 671
+>    * Columns in Batter Data : 40
 >---
->    * Rows of Pitcher's Data : 615
->    * Columns of Pitcher's Data : 41
+>    * Rows in Pitcher Data : 615
+>    * Columns in Pitcher Data : 41
 >---
 >    * Dependent Variable : Salary(Y)
 >    * Independent Variables : All variables except Dependent Variable
