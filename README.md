@@ -27,4 +27,5 @@
 >    * Cross Validation
 >    * Check RMSLE and RMSE
 ---
->    * Continuing ~
+### Code and Results
+>    * [Go](https://github.com/Jwones/Personal_Project/blob/master/MLB_Project/5th.ipynb)
