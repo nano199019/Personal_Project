@@ -28,4 +28,4 @@
 >    * Check RMSLE and RMSE
 ---
 ### Code and Results
->    [* View](https://github.com/Jwones/Personal_Project/blob/master/MLB_Project/5th.ipynb)
+>    * [View](https://github.com/Jwones/Personal_Project/blob/master/MLB_Project/5th.ipynb)
